@@ -13,6 +13,7 @@ python-dotenv = "^1.1.1"
 langchain-openai = "^0.3.28"
 langgraph = "^0.5.3"
 langchain-mcp-adapters = "^0.1.9"
+langchain-google-community = "^2.0.7"
 
 
 [build-system]
